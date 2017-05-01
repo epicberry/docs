@@ -5,6 +5,8 @@ Terminal Commands-----------------------------------------------#
 
 Ctrl + l --> Clears the screen on terminal
 
+Ctrl + e --> End of line
+
 !$ represents previous location
 
 Command 1 -- ls /etc/hosts
