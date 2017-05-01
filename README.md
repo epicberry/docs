@@ -2,6 +2,7 @@
 Useful Commands
 
 Terminal Commands-----------------------------------------------#
+
 Ctrl + l --> Clears the screen on terminal
 
 !$ represents previous location
